@@ -1,1 +1,4 @@
 Console.Writeline("Hola mundo");
+int numero;
+numero = int32.Parse(Console.Readline());
+Console.Writeline(numero);
